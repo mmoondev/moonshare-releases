@@ -2,7 +2,7 @@
   <img src="https://github.com/mmoondev/moonshare-releases/blob/main/app_banner.png" alt="MoonShare" width="480">
 </p>
 
-# MoonShare — tela e arquivos pelo Wi-Fi
+# MoonShare — Tela e arquivos pelo Wi-Fi
 
 Transmita a tela do celular para outro aparelho ou para o PC e envie arquivos entre seus dispositivos, tudo pela rede local: sem cabo, sem conta e sem nuvem.
 
