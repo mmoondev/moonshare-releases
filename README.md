@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/drawable-xhdpi/app_banner.png" alt="MoonShare" width="480">
+  <img src="https://github.com/mmoondev/moonshare-releases/blob/main/app_banner.png" alt="MoonShare" width="480">
 </p>
 
 # MoonShare — tela e arquivos pelo Wi-Fi
