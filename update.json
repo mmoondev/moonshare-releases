@@ -1,15 +1,15 @@
 {
   "android": {
-    "versionCode": 14,
-    "versionName": "1.1",
-    "url": "https://github.com/mmoondev/moonshare-releases/releases/download/1.1/MoonShare-1.1.apk",
-    "sha256": "5e090badbedfa2aea8290913fdc73b226e6d4d6770dc39d6f5c752c952e21207",
+    "versionCode": 15,
+    "versionName": "1.2",
+    "url": "https://github.com/mmoondev/moonshare-releases/releases/download/1.1/MoonShare-1.2.apk",
+    "sha256": "sha256:f6aed4a674c5a6e8240fee9470f8f6b42c3fd1875ff34fd58ee80a04dd8d926f",
     "notes": ""
   },
   "windows": {
-    "version": "1.1",
+    "version": "1.2",
     "url": "https://github.com/mmoondev/moonshare-releases/releases/download/1.1/MoonShare.exe",
-    "sha256": "2f1cc6aa8bec515cc0cf7688fa18c03145c9acf78c9511324032eefcf11bf7ac",
+    "sha256": "sha256:341b394a3e116cf41e57ec96db669c26d089cfb617ca19cac5ad665c907bf415",
     "notes": ""
   }
 }
