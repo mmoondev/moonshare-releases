@@ -1,7 +1,7 @@
 {
   "android": {
-    "versionCode": 15,
-    "versionName": "1.2",
+    "versionCode": 19,
+    "versionName": "1.3",
     "url": "https://github.com/mmoondev/moonshare-releases/releases/download/1.3/MoonShare-1.3.apk",
     "sha256": "4a38749222fd69943e57fac2e1b526d881b06a66b79ddec60a4de9e5e1aad06f",
     "notes": ""
