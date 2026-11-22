@@ -7,9 +7,9 @@
     "notes": ""
   },
   "windows": {
-    "version": "1.2",
-    "url": "https://github.com/mmoondev/moonshare-releases/releases/download/1.2/MoonShare.exe",
-    "sha256": "341b394a3e116cf41e57ec96db669c26d089cfb617ca19cac5ad665c907bf415",
+    "version": "1.3",
+    "url": "https://github.com/mmoondev/moonshare-releases/releases/download/1.3/MoonShare.exe",
+    "sha256": "e31a1a785adea78bef943510e622a28cf5a5af08c36460ee3c9524d862e2b5f2",
     "notes": ""
   }
 }
